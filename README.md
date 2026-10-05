@@ -3,7 +3,9 @@
 
   # 吾韵 Soundery
 
-  **车机横屏 Navidrome 音乐客户端**
+   **连接 NAS 自建音乐库的车机音乐播放器**
+
+  基于 Subsonic API，适配 Navidrome。
 
   把家里 NAS 上的歌，带到车上好好听。
 
@@ -19,7 +21,7 @@
 
 ## 这是什么
 
-**吾韵 Soundery** 是一款为 **Android 车机横屏**打造的 Navidrome 音乐客户端。
+是一款为 **Android 车机横屏**打造的 **NAS 音乐播放器**，基于 Subsonic API，适配 Navidrome。
 
 它解决的问题很简单：**你在家里 NAS（Navidrome）上存了很多歌，但车机上没有一款好用的播放器去听它们。**
 
